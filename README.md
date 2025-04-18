@@ -2,7 +2,7 @@
   <img
     src="https://render.gitanimals.org/lines/heum2?pet-id=700906071044497619"
     width="600"
-    height="200"
+    height="120"
   />
 </a>
   
